@@ -1,0 +1,17 @@
+{
+  "name": "module11_homework",
+  "version": "1.0.0",
+  "description": "26.6 Экстремальное программирование. Unit-тесты",
+  "main": "index.js",
+  "repository": "https://github.com/krabikilusha/md26.git",
+  "scripts": {
+    "test": "jest",
+    "count-down-dev": "nodemon src/countDown",
+    "reverse-string-dev": "nodemon src/reverseString"
+  },
+  "author": "ilia Pavlov <boss.ilia.2014@mail.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
